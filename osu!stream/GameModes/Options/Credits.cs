@@ -16,7 +16,7 @@ namespace osum.GameModes.Options
     {
         string[] creditsRoll = new string[] {
             "OsuTexture.menu_logo",
-            "Created by Dean \"peppy\" Herbert",
+            "Originally by Dean \"peppy\" Herbert",
             "*Graphics",
             "Koko Ban - Concept artwork, Interface mockups, colours!",
             "LuigiHann - Gameplay element contributions, rank letters",
